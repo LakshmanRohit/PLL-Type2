@@ -11,9 +11,8 @@ Layout - 3D View:\
 
 
 PCB (Before Soldering):\
-<img src="Images/Layout_PLL.jpg" alt="Alt text" width="400" height="300" align = "centre">
+<img src="Images/PCB_PLL.jpg" alt="Alt text" width="400" height="300" align = "centre">
 
 Final PCB:\
-<img src="Images/Final_PCB_PLL.jpg" alt="Alt text" width="400" height="300" align = "centre">
 
 Working video: https://www.youtube.com/watch?v=WpeVHUnthCc
