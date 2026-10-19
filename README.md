@@ -1,9 +1,19 @@
 # PLL-Type2
+
+<table>
+  <tr>
+    <td width="60%">
+      <img src="Images/Screenshot 2024-12-08 165914.png" alt="Image 1" width="100%">
+      <p align="center"><b>LTSpice Model</b></p>
+    </td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td width="60%">
       <img src="Images/Schematic_PLL.jpg" alt="Image 1" width="100%">
-      <p align="center"><b>Schematic</b></p>
+      <p align="center"><b>KiCad - Schematic</b></p>
     </td>
   </tr>
 </table>
